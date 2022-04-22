@@ -1,4 +1,5 @@
 # Exercício prático | DIO 🖩
+Exercício realizado conforme conteúdo da Dio sobre Javascript.
 
 ## Calculadora feita com Prompt e Alert 👩🏻‍💻 
 
